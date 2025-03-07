@@ -30,7 +30,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Chatbot](https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/)**
+🔗 **[Try Leo Chatbot Here!!](https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/)**
 
 ---
 
