@@ -73,3 +73,14 @@ Your chatbot will be live at:**
 https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/
 ```
 
+---
+
+### **📌 How to Add This to Your GitHub Repo?**
+1️⃣ **Create a `README.md` file in your project folder**  
+2️⃣ **Copy and paste** the above content  
+3️⃣ **Commit and push to GitHub**  
+```sh
+git add README.md
+git commit -m "Added README file"
+git push origin main
+
