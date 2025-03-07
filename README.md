@@ -40,3 +40,14 @@
 ```sh
 git clone https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI.git
 cd Rule-Based-Chatbot-with-UI
+```
+
+2️⃣ **Install dependencies**  
+```sh
+npm install
+```
+
+3️⃣ **Run the development server**
+```sh
+npm run dev
+```
