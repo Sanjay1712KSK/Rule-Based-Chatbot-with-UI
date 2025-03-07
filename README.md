@@ -72,15 +72,26 @@ Your chatbot will be live at:**
 ```sh
 https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/
 ```
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you’d like to contribute:
 
-1. **Fork the repository** 🍴  
-2. **Create a new branch**  
+1️⃣ **Fork the repository** 🍴  
+2️⃣ **Create a new branch**  
    ```sh
    git checkout -b feature-branch
-  ```
+   ```
+3️⃣ **Commit your changes**
+   ```sh
+   git commit -m "Added new feature
+   ```
+4️⃣ **Push to the branch**  
+   ```sh
+   git push origin feature-branch
+   ```
+5️⃣ **Open a Pull Request 🚀**
 
 ---
 
@@ -91,6 +102,10 @@ Contributions are welcome! If you’d like to contribute:
 3️⃣ **Commit and push to GitHub**  
 ```sh
 git add README.md
+```
+```sh
 git commit -m "Added README file"
+```
+```sh
 git push origin main
 ```
