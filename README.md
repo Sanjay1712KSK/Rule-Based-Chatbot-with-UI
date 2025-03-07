@@ -59,6 +59,8 @@ npm run dev
 ```
 **Your chatbot will be live at http://localhost:5173/**
 
+---
+
 ## 🚀 Deployment
 
 **GitHub Pages Deployment**
@@ -115,3 +117,16 @@ git commit -m "Added README file"
 ```sh
 git push origin main
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+
+By using or modifying this software, you must comply with the terms of the **GPL-3.0** license. This means:  
+- You are free to **use, modify, and distribute** this software.  
+- Any modifications must also be **open-source** and distributed under the same license.  
+- This software **cannot be used in proprietary projects** without following GPL-3.0 rules.  
+
+📜 **Full License Text:** [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
