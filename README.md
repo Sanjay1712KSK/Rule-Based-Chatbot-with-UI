@@ -130,3 +130,11 @@ By using or modifying this software, you must comply with the terms of the **GPL
 - This software **cannot be used in proprietary projects** without following GPL-3.0 rules.  
 
 📜 **Full License Text:** [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html)  
+
+---
+
+📩 Contact
+For any issues or suggestions, feel free to contact me via:
+📧**[Email](sanjayksk1712@gmail.com)**
+🐙**[Github Profile](https://github.com/Sanjay1712KSK)**
+🔗**[LinkedIn](https://www.linkedin.com/in/sanjaykumarksk/)**
