@@ -38,7 +38,9 @@
 
 🔗 **[Try Leo Chatbot Here!!](https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/)**
 
-🎥 **Live Demo Video:**  
+---
+
+## 🎥 **Live Demo Video:**  
 📺 [Watch Here!](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/raw/main/Video/Chatbot%20Live%20demo%20recording.mp4)
 
 
