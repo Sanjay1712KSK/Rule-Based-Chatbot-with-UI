@@ -2,7 +2,7 @@
 
 🚀 A **fast, interactive, and modern chatbot UI** built with **React 18, TypeScript, and Vite**, featuring **Tailwind CSS animations, Glassmorphism UI, and a seamless user experience**.
 
-![Chatbot UI](https://your-image-link-here.png) <!-- Add a screenshot of your chatbot -->
+![Chatbot UI](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/issues/1#issue-2903622977) 
 
 ---
 
