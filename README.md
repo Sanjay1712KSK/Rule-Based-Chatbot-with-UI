@@ -42,7 +42,6 @@
 
 ## 🎥 **Live Demo Video**  
 📺 [Watch Here!](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/raw/main/Video/Chatbot%20Live%20demo%20recording.mp4)
-![Chatbot Live Demo](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/raw/main/Video/demo.gif)
 
 
 ---
