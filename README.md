@@ -98,14 +98,14 @@ Contributions are welcome! If you’d like to contribute:
 ## 🔥 Star ⭐ this repo if you found it useful!
 ### **📌 How to Add This to Your GitHub Repo?**
 1️⃣ **Create a `README.md` file in your project folder**  
-2️⃣ **Copy and paste** the above content  
-3️⃣ **Commit and push to GitHub**  
 ```sh
 git add README.md
 ```
+2️⃣ **Copy and paste** the above content  
 ```sh
 git commit -m "Added README file"
 ```
+3️⃣ **Commit and push to GitHub**  
 ```sh
 git push origin main
 ```
