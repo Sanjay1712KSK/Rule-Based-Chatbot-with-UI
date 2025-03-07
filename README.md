@@ -74,7 +74,7 @@ https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/
 ```
 
 ---
-
+## 🔥 Star ⭐ this repo if you found it useful!
 ### **📌 How to Add This to Your GitHub Repo?**
 1️⃣ **Create a `README.md` file in your project folder**  
 2️⃣ **Copy and paste** the above content  
