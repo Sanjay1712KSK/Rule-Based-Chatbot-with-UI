@@ -11,10 +11,10 @@
 ✅ **Lightning-Fast Performance** – Powered by Vite ⚡  
 ✅ **Modern UI** – Glassmorphism design, custom animations, smooth transitions ✨  
 ✅ **Responsive & Accessible** – Works on **mobile and desktop** 📱  
-✅ **Engaging Chat Experience** – Hover effects, emojis, GIF support, and voice input 🎙️  
+✅ **Engaging Chat Experience** – Hover effects, emojis, GIF support, and voice input 🎙️  (Currently In development)
 ✅ **Dark & Light Mode** – User-friendly theme toggle 🌙☀️  
 ✅ **Persistent Chat History** – Retains previous messages for seamless experience 💬  
-✅ **WhatsApp Integration** – Send messages directly from the chatbot 📲  
+✅ **WhatsApp Integration** – Send messages directly from the chatbot 📲  (Currently in development)
 
 ---
 
