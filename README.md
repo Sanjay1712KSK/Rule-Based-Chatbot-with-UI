@@ -52,3 +52,24 @@ npm install
 npm run dev
 ```
 **Your chatbot will be live at http://localhost:5173/**
+
+## 🚀 Deployment
+
+**GitHub Pages Deployment**
+
+1️⃣ **Build the project**  
+```sh
+npm run build
+```
+
+2️⃣ **Deploy to GitHub Pages**  
+```sh
+npm run deploy
+```
+
+3️⃣ **Enable GitHub Pages in your repository settings.
+Your chatbot will be live at:**
+```sh
+https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/
+```
+
