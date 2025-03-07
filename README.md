@@ -51,3 +51,4 @@ npm install
 ```sh
 npm run dev
 ```
+**Your chatbot will be live at http://localhost:5173/**
