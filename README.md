@@ -1,52 +1,52 @@
-# 🤖 Rule-Based Chatbot with UI
+## Rule-Based Chatbot with UI
 
-🚀 A **fast, interactive, and modern chatbot UI** built with **React 18, TypeScript, and Vite**, featuring **Tailwind CSS animations, Glassmorphism UI, and a seamless user experience**.
+ A **fast, interactive, and modern chatbot UI** built with **React 18, TypeScript, and Vite**, featuring **Tailwind CSS animations, Glassmorphism UI, and a seamless user experience**.
 
 📸[Chatbot UI](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/issues/1#issue-2903622977) 
 
----
 
-## 🌟 Features
 
-✅ **Lightning-Fast Performance** – Powered by Vite ⚡  
+##  Features
 
-✅ **Modern UI** – Glassmorphism design, custom animations, smooth transitions ✨  
+✅ **Lightning-Fast Performance** – Powered by Vite   
 
-✅ **Responsive & Accessible** – Works on **mobile and desktop** 📱  
+✅ **Modern UI** – Glassmorphism design, custom animations, smooth transitions 
 
-✅ **Engaging Chat Experience** – Hover effects, emojis, GIF support, and voice input 🎙️  (Currently In development)
+✅ **Responsive & Accessible** – Works on **mobile and desktop** 
 
-✅ **Dark & Light Mode** – User-friendly theme toggle 🌙☀️  
+✅ **Engaging Chat Experience** – Hover effects, emojis, GIF support, and voice input   (Currently In development)
 
-✅ **Persistent Chat History** – Retains previous messages for seamless experience 💬  
+✅ **Dark & Light Mode** – User-friendly theme toggle
 
-✅ **WhatsApp Integration** – Send messages directly from the chatbot 📲  (Currently in development)
+✅ **Persistent Chat History** – Retains previous messages for seamless experience 
 
----
+✅ **WhatsApp Integration** – Send messages directly from the chatbot   (Currently in development)
+
+
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React 18 (TypeScript) + Vite ⚡  
-- **Styling**: Tailwind CSS + PostCSS + Autoprefixer 🎨  
-- **Development Tools**: ESLint + TypeScript Compiler 🛠️  
-- **Icons**: Lucide React 🖼️  
-- **Deployment**: GitHub Pages / Vercel 🌍  
+- **Frontend**: React 18 (TypeScript) + Vite
+- **Styling**: Tailwind CSS + PostCSS + Autoprefixer 
+- **Development Tools**: ESLint + TypeScript Compiler 
+- **Icons**: Lucide React 
+- **Deployment**: GitHub Pages / Vercel 
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **[Try Leo Chatbot Here!!](https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/)**
 
 ---
 
-## 🎥 **Live Demo Video**  
-📺 [Watch Here!](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/raw/main/Video/Chatbot%20Live%20demo%20recording.mp4)
+##  **Live Demo Video**  
+ [Watch Here!](https://github.com/Sanjay1712KSK/Rule-Based-Chatbot-with-UI/raw/main/Video/Chatbot%20Live%20demo%20recording.mp4)
 
 
----
 
-## 📦 Installation & Setup
+
+##  Installation & Setup
 
 1️⃣ **Clone the repository**  
 ```sh
@@ -65,9 +65,9 @@ npm run dev
 ```
 **Your chatbot will be live at http://localhost:5173/**
 
----
 
-## 🚀 Deployment
+
+##  Deployment
 
 **GitHub Pages Deployment**
 
@@ -86,7 +86,7 @@ Your chatbot will be live at:**
 ```sh
 https://Sanjay1712KSK.github.io/Rule-Based-Chatbot-with-UI/
 ```
----
+
 
 ## 🤝 Contributing
 
@@ -107,7 +107,7 @@ Contributions are welcome! If you’d like to contribute:
    ```
 5️⃣ **Open a Pull Request 🚀**
 
----
+
 
 ## 🔥 Star ⭐ this repo if you found it useful!
 ### **📌 How to Add This to Your GitHub Repo?**
@@ -123,8 +123,6 @@ git commit -m "Added README file"
 ```sh
 git push origin main
 ```
-
----
 
 ## 📄 License
 
